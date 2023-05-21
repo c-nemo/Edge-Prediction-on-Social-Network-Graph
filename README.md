@@ -7,7 +7,11 @@
 
 - solution.ipynb - основной файл решения, в котором происходит обучение модели, ее оценка на test и формирование submission файла
 - Аналитика.ipynb - файл с аналитикой по датасету
-- generate_features - скрипт генерации признаков. Пример запуска скрипта: ```python3 generate_features.py -a attr.csv -i train.csv -o train_with_features.csv```
+- generate_features.py - скрипт генерации признаков.
+
+Пример запуска скрипта генерации признаков:
+
+```python3 generate_features.py -a attr.csv -i train.csv -o train_with_features.csv```
 
 ## Используемые признаки
 
