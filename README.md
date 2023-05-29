@@ -3,6 +3,8 @@
 
 Хакатон Цифровой Прорыв - сезон ИИ - 2023 - ЦФО - кейс от VK
 
+[Презентация](https://github.com/c-nemo/Edge-Prediction-on-Social-Network-Graph/blob/main/%D0%93%D0%B5%D1%80%D0%BE%D0%B8%20ML%20%D0%B8%20%D0%BC%D0%B0%D0%B3%D0%B8%D0%B8%202023%20%D1%86%D1%84%D0%BE%20%D0%B2%D0%BA%20(6).pdf)
+
 ## Структура репозитория
 
 - solution.ipynb - основной файл решения, в котором происходит обучение модели, ее оценка на test и формирование submission файла
